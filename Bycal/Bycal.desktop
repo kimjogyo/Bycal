@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Bycal
+Comment=A simple calculator made with SDL in C
+Exec=/home/kimjogyo/Bycal/Bycal
+Icon=/home/kimjogyo/Bycal/lay.JPG
+Terminal=false
+Type=Application
+Categories=Utility;
